@@ -3,7 +3,7 @@
 Descripción breve
 -----------------
 
-Proyecto de ejemplo para análisis exploratorio y procesamiento de datos. Incluye datos crudos y procesados, notebooks de experimentación y scripts reutilizables para reproducir los pasos del análisis.
+Repositorio de prácticas para la clase de Big Data: incluye conjuntos de datos (crudos y procesados), notebooks con ejercicios y análisis reproducibles, y scripts para extracción, limpieza y transformación. Diseñado para apoyar las clases, las prácticas y proyectos del curso.
 
 Objetivos
 ---------
